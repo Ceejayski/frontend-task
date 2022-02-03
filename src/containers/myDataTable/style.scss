@@ -1,0 +1,17 @@
+.my-datatable {
+  thead {
+    tr {
+      border-bottom: 1px #ccc solid !important;
+    }
+
+    th {
+      font-weight: 500;
+      vertical-align: bottom;
+      border-bottom: 3px solid hsl(0, 0%, 87%);
+    }
+
+    button {
+      font-weight: 500 !important;
+    }
+  }
+}

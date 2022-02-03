@@ -1,0 +1,5 @@
+export const GET_USER_DETAILS = 'GET_USER_DETAILS';
+export const ERROR_FETCHING = 'ERROR_FETCHING';
+export const ADD_USER = 'ADD_USER';
+export const EDIT_USER_DETAILS = 'EDIT_USER_DETAILS';
+export const DELETE_USER = 'DELETE_USER';
